@@ -95,7 +95,7 @@ Thanks for using Humanity Auto Claim Bot! 🙌
 
 If you find this project helpful and would like to support its development, feel free to donate:
 
-- EVM (Ethereum, BSC, Polygon, etc): `0x3525E1ae71cDbc4Ea203B60fF0Fc598Bc8CB7FF2`
+- EVM : `0x3525E1ae71cDbc4Ea203B60fF0Fc598Bc8CB7FF2`
 - Solana: `F8GNZgMBoCDrxEYtVfFgMs2Kf3Xb7jRdEicjHvtTizie`
 
 Your support is greatly appreciated and helps keep this project alive. Thank you! 🙏
