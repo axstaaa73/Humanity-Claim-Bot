@@ -24,7 +24,7 @@ Before installing, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/axstaaa73/Humanity-Claim-Bot.git
+git clone https://github.com/finalbotofficial/Humanity-Claim-Bot.git
 cd Humanity-Claim-Bot
 ```
 
